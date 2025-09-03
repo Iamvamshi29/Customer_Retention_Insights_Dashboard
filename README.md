@@ -1,4 +1,5 @@
-📊 Telco Customer Churn Analysis & Retention Insights
+📊 Customer_Retention_Insights_Dashboard
+
 
 This project focuses on analyzing customer churn patterns for a telecom company using Power BI and Exploratory Data Analysis (EDA) in Python.
 The goal is to identify key factors influencing churn and provide actionable insights to improve customer retention.
@@ -59,16 +60,30 @@ Longer Tenure & Higher Total Charges → Lower churn risk.
 📈 Dashboards
 
 Interactive Power BI dashboards provide:
+![Dashboard1](https://github.com/user-attachments/assets/4ee12e30-3c2f-4778-83cf-2f6d9657b79e)
+![Dashboard2](https://github.com/user-attachments/assets/2f116bf5-449f-40dc-89c5-7b414ef1222e)
+
 
 Customer breakdown by gender, partner, and dependent status.
+![Task1](https://github.com/user-attachments/assets/194d02a1-3473-49fc-b31f-70fe59b64263)
+
 
 Tenure distribution (box plot, histogram).
+![Task2](https://github.com/user-attachments/assets/46f06c14-ca8e-4064-a1d6-4cfb06bed345)
+
 
 Churn comparison by tenure, contract type, and payment method.
 
+![Task3](https://github.com/user-attachments/assets/1f1357d7-aa2b-4b2e-a587-b893ab0e5335)
+
 Key retention KPIs.
+![Task4](https://github.com/user-attachments/assets/cbf06d5a-60be-4610-8d7e-7c7793465912)
+
 
 Sample Visuals:
+
+![Dashboard1](https://github.com/user-attachments/assets/4ee12e30-3c2f-4778-83cf-2f6d9657b79e)
+![Dashboard2](https://github.com/user-attachments/assets/2f116bf5-449f-40dc-89c5-7b414ef1222e)
 
 
 
